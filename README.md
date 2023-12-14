@@ -10,7 +10,7 @@ These are my PC Specs, they will be updated as I upgrade my PC
     - AMD Ryzen 5 3600
 
 - ***GPU***
-    - AMD Radeon RX 6600 Gaming Sapphire Pulse, 8GB GDDR6
+    - PNY NVIDIA GeForce RTX 4060 VERTO Dual Fan, 8GB, GDDR6
 
 - ***Font***
     - Cooler Master MPE 550W, 80 Plus White
