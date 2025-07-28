@@ -36,12 +36,12 @@ These are my setup specs, they will be updated as I upgrade my setup
     -  Logitech MX Master 3S `(fallback)`
     -  Logitech G305
  
-- Keyboard
+- ***Keyboard***
     - Royal Kludge RK84 Red
     - Sofle V2 Split Keyboard
 
 - ***Video***
     - Logitech C920
  
-- Monitor
+- ***Monitor***
     - 2 x LG Ultragear 24" FHD 144hz
