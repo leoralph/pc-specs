@@ -12,7 +12,7 @@ These are my PC Specs, they will be updated as I upgrade my PC
 - ***GPU***
     - PNY NVIDIA GeForce RTX 4060 VERTO Dual Fan, 8GB, GDDR6
 
-- ***Font***
+- ***PSU***
     - Cooler Master MPE 550W, 80 Plus White
 
 - ***RAM***
@@ -21,5 +21,5 @@ These are my PC Specs, they will be updated as I upgrade my PC
 - ***Storage***
     - 1 x WD Black SN850X 2TB
 
-- ***Coling***
-    - 6 x Redragon RGB fan, 120mm, GC-F006
+- ***Cooling***
+    - 1 x Deepcool Le720 Argb 360mm
